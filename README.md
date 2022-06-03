@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bisCZ
 - 👀 I am interested in all sorts of coding, open source and 
 - 🌱 I'm still learning, installing, testing, etc.
-- 💞️ What would I like to collaborate on? This is secret!
+- 💞️ What would I like to collaborate on? This is secret! Look here: https://gist.github.com/bisCZ
 - 📫 Let me know.
 
 <!---
